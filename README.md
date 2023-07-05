@@ -23,26 +23,26 @@
 
 ### 卡组指示灯
 
-<img src="https://s1.ax1x.com/2023/07/04/pCst9je.png" style="zoom:25%;" />
+<img src="https://s1.ax1x.com/2023/07/04/pCst9je.png" width="40%;" />
 
 熊猫二代即可模拟两组，每组8张，一共是16张IC卡，熊猫三代也是如此。G1和G2是卡组指示灯，当G1灯亮起说明当前在第一卡组，G2灯亮起说明当前在第二卡组。**长按右键可以在两组间切换**。
 
 ### 卡位指示灯
-<img src="https://s1.ax1x.com/2023/07/04/pCstiBd.png" style="zoom:25%;" />
+<img src="https://s1.ax1x.com/2023/07/04/pCstiBd.png" width="40%;" />
 
 1-8八个灯是卡位指示灯。**通过短按左右按键可以切换卡位**。7和8灯同时亮起为**读卡器模式**，可以**通过长按中间的“IC/ID”键快速进入读卡器模式**。
 
 
 ### ID指示灯
 
-<img src="https://s1.ax1x.com/2023/07/04/pCstPnH.png" style="zoom:25%;" />
+<img src="https://s1.ax1x.com/2023/07/04/pCstPnH.png" width="40%;" />
 
 熊猫三代支持ID卡的读写操作，当ID指示灯亮起即可对ID卡脱机读写，或者表明当前卡位为模拟ID卡模式。该灯不亮的时候表明处于IC卡模式。**通过短按中间的“IC/ID”按键即可切换IC和ID模式**。  
 
 综上所述，通过切换卡组，卡位和IC/ID模式，熊猫三代可以做到**模拟16张IC卡和16张ID卡**。
 
 ### 射频功能区
-<img src="https://s1.ax1x.com/2023/07/04/pCstAAI.png" style="zoom:25%;" />
+<img src="https://s1.ax1x.com/2023/07/04/pCstAAI.png" width="40%;" />
 
 RF灯为射频指示灯，该灯有红绿蓝三种颜色，表示了三组按键。**通过同时按住A+B键可以在三组间来回切换**。每组有ABC123六个按键，也就是说一共可以模拟3×6=18个按键。
 
