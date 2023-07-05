@@ -15,7 +15,7 @@
 
 熊猫三代是**电子兔科技**新出的一款设备，相比于二代主要增加了**ID卡脱机读写**和**射频模拟**的功能，电池也增加到了450mAh。简单来说，三代就是集**熊猫二代所有功能**+**全频ID读卡器**+**全频段对拷遥控器**于一体的新设备。本篇教程将对新增的功能进行一些简单的介绍。
 
-<img src="https://s1.ax1x.com/2023/07/04/pCste9f.png" width="20%; text-align:center" /><img src="https://s1.ax1x.com/2023/07/04/pCstFHA.png" style="zoom:20%;" />
+<img src="https://s1.ax1x.com/2023/07/04/pCste9f.png" width="20%; text-align:center" /><img src="https://s1.ax1x.com/2023/07/04/pCstFHA.png" width="20%;" />
 
 
 
